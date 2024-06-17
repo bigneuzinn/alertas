@@ -1,0 +1,97 @@
+body {
+    background-image: url(img/fundo-preto-abstrato-da-grade-digital_53876-97647.avif);
+}
+
+.content {
+    text-align: center;
+    padding: 50px;
+    color: #fff;
+}
+
+.Titulo {
+    color: white;
+}
+
+.Titulo2 {
+    color: white;
+}
+
+.Titulo3 {
+    color: white;
+}
+
+.Titulo4 {
+    color: white;
+}
+
+.botao {
+    background-color: brown;
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+    border: 110;
+    
+
+}
+
+.Imagem1 {
+    height: 300px;
+}
+
+.botao2 {
+    background-color: brown;
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+    border: 110;
+    
+
+}
+
+.Imagem2 {
+    height: 300px;
+}
+
+
+
+.botao3 {
+    background-color: brown;
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+    border: 110;
+    
+
+}
+
+.Imagem3 {
+    height: 300px;
+}
+
+.botao4 {
+    background-color: brown;
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+    border: 110;
+    
+
+}
+
+.Imagem4 {
+    height: 300px;
+}
+
+.botao5 {
+    background-color: brown;
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+    border: 110;
+    
+
+}
+
+.Imagem5 {
+    height: 300px;
+}
